@@ -14,7 +14,7 @@
   <img src="https://telegra.ph/file/31d8106f1ff2a905df1b7.jpg">
 </p>
 
-# YoneRobot
+# KING BOT
 Me On Telegram [✨Yone✨](https://t.me/YoneRobot)
 
 ## How To Host
